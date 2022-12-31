@@ -20,6 +20,8 @@
 !var/log/.gitkeep
 /var
 
+.idea
+
 # Parameters
 /app/config/parameters.yml
 /app/config/parameters.ini
